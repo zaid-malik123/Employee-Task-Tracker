@@ -15,10 +15,4 @@ A simple **Task Assignment and Management system** built with **React.js** using
 - HTML & CSS
 - Browser localStorage API
 
-## 🧪 How to Run Locally
 
-```bash
-git clone https://github.com/your-username/local-tasker.git
-cd local-tasker
-npm install
-npm start
